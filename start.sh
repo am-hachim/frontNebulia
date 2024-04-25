@@ -9,4 +9,4 @@ cd /home/github/actions-runner
 ./config.cmd --url https://github.com/am-hachim/frontNebulia --token A3IDDYTQL3TTQEDTYAW7DL3GFIZLS
 
 
-./run.sh & wait $!
+./run.sh & wait $! 
